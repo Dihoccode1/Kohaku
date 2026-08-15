@@ -1,7 +1,7 @@
-import logo from "./images/logo.svg";
+import heroImage from "../assets/images/hero.svg";
 
 export const data = {
-  Logo: {
-    src: logo,
+  hero: {
+    src: heroImage,
   },
 };
